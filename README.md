@@ -4,6 +4,6 @@
 
 # Subcards of Different Sections
 
-Uploading netflix.mp4…
+
 
 
